@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\melis\OneDrive\Masaüstü\JAVA_KAMP\java kamp ödevler\.metadata\.plugins\org.eclipse.jdt.core
+3343061243.index
+1642175237.index
+2273062518.index

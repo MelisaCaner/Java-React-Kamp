@@ -1,0 +1,1 @@
+INDEX VERSION 1.4+C:\Users\melis\OneDrive\Masaüstü\JAVA_KAMP\java kamp ödevler\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
